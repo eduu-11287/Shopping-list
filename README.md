@@ -24,4 +24,5 @@ run each file in the node ``node index.js``
 ### Author: Edwin Ngigi
 Incase you get stuck or experience some problem contact me through my email edwinngigi313@gmail.com
 
-
+## live link
+https://eduu-11287.github.io/Shopping-list/
